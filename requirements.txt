@@ -1,0 +1,12 @@
+monai
+jupyterlab
+pillow
+matplotlib
+glob2
+scikit-learn
+torchvision
+pynvml
+transformers
+segmentation_models_pytorch
+albumentations
+pydantic
